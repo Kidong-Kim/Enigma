@@ -1,4 +1,4 @@
-# Enigma - Data Structiures and OOP
+# Enigma - Data Structures and OOP
 
 ## Abstract
 
